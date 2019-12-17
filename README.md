@@ -1,4 +1,15 @@
-1) Estrazione del Video in MP4 alta risoluzione da youtube e molti altri siti 
-2) Estrazione Audio MP3 da youtube e molti altri siti 
-3) Copia i link che vuoi scaricare nel file list_link.dat Ex:https://www.youtube.com/watch?v=UrN3-lDk9Rs o solo  UrN3-lDk9Rs
+1) High resolution MP4 Video Extraction from YouTube and many other sites
+2) MP3 audio extraction from youtube and many other sites
+3) Copy the links you want to download into the file => list_link.dat
+:
+Example: https://www.youtube.com/watch?v=UrN3-lDk9Rs
+or only:  UrN3-lDk9Rs 
+
+
+Faq
+https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme
+
+Supported Sites
+https://ytdl-org.github.io/youtube-dl/supportedsites.html
+=> a copy supportedsites.html is in the folder => 'Bin'
 
